@@ -206,7 +206,7 @@ function App() {
         </div>
 
         <div>
-          <h2>Submit or Reset</h2>
+          <label>Submit or Reset</label>
           <button type="reset" value="reset" onClick={handleReset}>
             RESET
           </button>
